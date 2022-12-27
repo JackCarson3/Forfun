@@ -67,11 +67,7 @@ const Hero = () => {
       <p>
         I’m an instructional designer who is passionate about equipping people with comprehensive,
         accessible, and enjoyable learning resources. I want to make people better at what they are
-        already passionate about.{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        already passionate about.
       </p>
     </>
   );
