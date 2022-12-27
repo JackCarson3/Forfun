@@ -1,9 +1,6 @@
 import React from 'react';
+import Hexagon from './Hexagon'; // Import the Hexagon component
 
-const IconLoader = () => (
-  <svg viewBox="0 0 100 100">
-    <use xlinkHref="../../images/Erin-Carson-1.svg#logo" />
-  </svg>
-);
+const IconLoader = () => <Hexagon />;
 
 export default IconLoader;
