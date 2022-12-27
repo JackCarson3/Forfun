@@ -6,11 +6,11 @@ const IconLoader = () => (
     xmlns="http://www.w3.org/2000/svg"
     width="1080.000000pt"
     height="1080.000000pt"
-    viewBox="0 0 1080.000000 1080.000000"
+    viewBox="0 0 2160.000000 2160.000000"
     preserveAspectRatio="xMidYMid meet">
     <g
       transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-      fill="#000000"
+      fill="currentColor"
       stroke="none">
       <path
         d="M4414 8904 c-71 -35 -96 -89 -82 -179 6 -37 16 -58 42 -84 31 -30 43
