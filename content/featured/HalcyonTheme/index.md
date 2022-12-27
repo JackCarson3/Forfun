@@ -1,15 +1,14 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Title III Training'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://docs.google.com/presentation/d/13g-DntwF3mk7GToWRWdo-qicV5W73yJDz0fEl8RIbcs/edit?usp=sharing'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Storyline 360
+  - iMovie
+  - Canva
+  - Google Suite
+  - Kowledge Assesments
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A course built with Storyline 360 that trained teachers in the Lynchburg City School system on their legal obligations related to Title III funding and helped train them in best practice in training ELL's (English Language Learners).
