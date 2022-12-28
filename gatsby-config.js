@@ -7,7 +7,7 @@ module.exports = {
       'I’m an instructional designer who is passionate about equipping people with comprehensive, accessible, and enjoyable learning resources.',
     siteUrl: 'https://carsonlearningdesigns.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@searsoncarson',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: './src/images/Erin Carson Simplified-1.png',
       },
     },
     `gatsby-plugin-offline`,
