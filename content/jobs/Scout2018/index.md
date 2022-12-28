@@ -1,12 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-12-01'
+title: 'Teaching Assistant'
+company: 'Campbell County Schools'
+location: 'Campbell County, VA'
+range: 'August – December 2020'
+url: 'https://www.ccpsva.org'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+Taught engaging K-12 music lessons that exceeded state learning standards; designed curriculum unitscelebrating diverse artistry and reinforcing grade-level content; tutored students weekly.

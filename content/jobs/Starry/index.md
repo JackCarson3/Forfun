@@ -1,12 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2022-12-21'
+title: 'Instructional Designer'
+company: 'Lynchburg City Schools'
+location: 'Lynchburg, VA'
+range: 'June 2021 - Present'
+url: 'https://www.lcsedu.net'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+Contracted to create professional development materials; designs asynchronous learning modulesutilizing ADDIE model; collaborates with SME; maintains legal and organizational compliance;constructs job aids and assessment tools; implements adult learning theory to maximize retention.

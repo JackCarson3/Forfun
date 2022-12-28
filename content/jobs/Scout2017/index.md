@@ -1,11 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-08-01'
+title: 'Elementary English Teacher'
+company: 'QKids International'
+location: 'Remote'
+range: 'March 2019 - August 2020'
+url: 'https://teacher.qkids.com'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+Taught English to PreK-6th grade students, facilitated engaging language classes using an advancedsynchronous learning software; fostered gamified learning environment for optimal language retention.

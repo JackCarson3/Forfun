@@ -1,13 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2018-08-21'
+title: 'Scheduling Coordinator'
+company: 'World Help'
+location: 'Lynchburg, VA'
+range: 'January - August 2018'
+url: 'https://worldhelp.net'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+Served in an administrative role at a global nonprofit; helped to build a ten-month tour for the Childrenof the World Choir through careful planning, public engagement, and strategic partnerships.

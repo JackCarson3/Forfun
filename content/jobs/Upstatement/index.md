@@ -1,12 +1,14 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Elementary ESOL Teacher'
+company: 'Lynchburg City Schools'
+location: 'Lynchburg, VA'
+range: 'January 2020 - Present'
+url: 'https://www.lcsedu.net'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Instructs multilingual learners of varying levels.
+- Creates engaging curriculum using UDL principles.
+- Ensures an equitable learning environment through supports and differentiation
+- Administers English proficiency assessment for data-based instruction
+- Engages families through outreach events

@@ -1,12 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2020-05-21'
+title: 'Graduate Student Assistant'
+company: 'Liberty University'
+location: 'Lynchburg, VA'
+range: 'August 2018 – May 2020'
+url: 'https://www.liberty.edu'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+Managed large undergraduate courses; set up courses in LMS; maintained data entry; organized teachingmaterials for face-to-face and remote learning; proctored assessments; tutored students; ensured courseaccessibility through ADA and university accommodations; monitored progress of exceptional learners.

@@ -1,8 +1,8 @@
 ---
 date: '1'
-title: 'Title III Training'
+title: 'Title III Asynchronous Learning Module'
 cover: './halcyon.png'
-external: 'https://docs.google.com/presentation/d/13g-DntwF3mk7GToWRWdo-qicV5W73yJDz0fEl8RIbcs/edit?usp=sharing'
+external: 'https://rise.articulate.com/share/6jrdL-sPBbOTlUQhtSVc5frMs_0GnmDy#/'
 tech:
   - Storyline 360
   - iMovie
@@ -11,4 +11,4 @@ tech:
   - Kowledge Assesments
 ---
 
-A course built with Storyline 360 that trained teachers in the Lynchburg City School system on their legal obligations related to Title III funding and helped train them in best practice in training ELL's (English Language Learners).
+A course built with Storyline 360 that trained teachers in the Lynchburg City School system on their legal obligations related to Title III funding and helped train them in best practice in training ELL's (English Language Learners). Click the link below to see a sample lesson!
