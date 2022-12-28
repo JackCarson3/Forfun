@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Title III Asynchronous Learning Module'
+title: 'Asynchronous Learning Module'
 cover: './halcyon.png'
 external: 'https://rise.articulate.com/share/6jrdL-sPBbOTlUQhtSVc5frMs_0GnmDy#/'
 tech:

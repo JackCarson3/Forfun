@@ -8,6 +8,7 @@ tech:
   - Venngage
   - Canva
   - Styled Components
+  - Adobe Express
 ---
 
 I have prepared a variety of teaching aids and tools for the professional development of the Lynchburg City School system faculty. These tools have been designed to help ensure Title III legal compliance and success.
