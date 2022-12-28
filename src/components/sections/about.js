@@ -150,8 +150,7 @@ const About = () => {
 
             <p>
               I have an Ed.S. from the University of Virginia in Curriculum and Instruction where I
-              was trained in rapid prototyping, ADDIE, backwards design, and multilingual learner
-              education.{' '}
+              was trained in{' '}
               <a href="https://www.instructionaldesign.org/models/iterative_design/rapid_prototyping/">
                 rapid design
               </a>
