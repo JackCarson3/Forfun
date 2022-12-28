@@ -155,7 +155,7 @@ const About = () => {
                 rapid design
               </a>
               ,{' '}
-              <a href="https://https://educationaltechnology.net/the-addie-model-instructional-design/.com/">
+              <a href="https://educationaltechnology.net/the-addie-model-instructional-design/.com/">
                 ADDIE
               </a>
               ,{' '}
