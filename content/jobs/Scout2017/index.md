@@ -7,4 +7,4 @@ range: 'March 2019 - August 2020'
 url: 'https://teacher.qkids.com'
 ---
 
-Taught English to PreK-6th grade students, facilitated engaging language classes using an advancedsynchronous learning software; fostered gamified learning environment for optimal language retention.
+Taught English to PreK-6th grade students, facilitated engaging language classes using an advanced synchronous learning software; fostered gamified learning environment for optimal language retention.
