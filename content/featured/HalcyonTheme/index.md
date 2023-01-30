@@ -1,14 +1,13 @@
 ---
 date: '1'
 title: 'Title III Asynchronous Module'
-cover: './halcyon.png'
-external: 'https://rise.articulate.com/share/6jrdL-sPBbOTlUQhtSVc5frMs_0GnmDy#/'
+cover: './halycon.png'
+external: 'https://app.7taps.com/ovAquDkPcr'
 tech:
-  - Storyline 360
-  - iMovie
-  - Canva
-  - Google Suite
-  - Kowledge Assesments
+  - micro-learning
+  - mobile UI
+  - 7Taps
+  - artificial intelligence
 ---
 
-A course built with Storyline 360 that trained teachers in the Lynchburg City School system on their legal obligations related to Title III funding and helped train them in best practice in training ELL's (English Language Learners). Click the link below to see a sample lesson!
+I designed this quick course for busy professionals who are curious about the trending chat bot from Open AI. Right from their smartphones, learners can explore the differences between a ChatGPT query and a standard search engine. Click the link to experience this project!

@@ -2,12 +2,12 @@
 date: '2'
 title: 'Professional Development Slide Deck and Assessment'
 cover: './demo.png'
-external: 'https://www.canva.com/design/DAFHKE7Ctbk/5v99ckFf6h6Lfg_UpQHd2A/view?utm_content=DAFHKE7Ctbk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1'
+external: 'https://www.canva.com/design/DAFZGhFlP6Y/aODS-xlb-k237k52-nhXGQ/view?utm_content=DAFZGhFlP6Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'
 tech:
-  - Canva
+  - Scripting
   - iMovie
   - Google Suite
-  - Jamboard
+  - Canva
 ---
 
-I prepared professional development lessons designed to improve faculty competence in instructing english language learners. I have provided a sample through the link below!
+I prepared professional development lessons designed to train faculty in culturally mindful pedagogy and legal compliance for Title III English Language Learners. Originally hosted on the district LMS, I have provided a sample lesson here.

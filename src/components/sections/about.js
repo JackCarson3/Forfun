@@ -126,12 +126,12 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Articulate Storyline 360',
-    'Adobe Captivate',
-    'UserGuiding',
-    'iSpring Suite',
-    'HTML',
-    'CSS',
+    'Storyboarding',
+    'Front-end Analysis',
+    'ILT/vILT/eLearning',
+    'Articulate Storyline',
+    'LMS Administration',
+    'HTML/CSS',
   ];
 
   return (
@@ -150,7 +150,7 @@ const About = () => {
 
             <p>
               I have an Ed.S. from the University of Virginia in Curriculum and Instruction where I
-              was trained in{' '}
+              studied educational technology and was trained in{' '}
               <a href="https://www.instructionaldesign.org/models/iterative_design/rapid_prototyping/">
                 rapid design
               </a>
@@ -158,9 +158,7 @@ const About = () => {
               <a href="https://educationaltechnology.net/the-addie-model-instructional-design/.com/">
                 ADDIE
               </a>
-              ,{' '}
-              <a href="https://www.cultofpedagogy.com/backward-design-basics/">backwards design</a>,
-              and{' '}
+              , and{' '}
               <a href="https://er.educause.edu/articles/2022/3/inclusive-addie-initial-considerations-for-dei-pedagogy">
                 inclusive design methods
               </a>

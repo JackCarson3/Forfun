@@ -7,4 +7,7 @@ range: 'June 2021 - Present'
 url: 'https://www.lcsedu.net'
 ---
 
-Contracted to create professional development materials; designs asynchronous learning modulesutilizing ADDIE model; collaborates with SME; maintains legal and organizational compliance; constructs job aids and assessment tools; implements adult learning theory to maximize retention.
+- designs asynchronous professional learning modules utilizing ADDIE model
+- Creates engaging learning materials using UDL principles
+- constructs job aids and assessment tools
+- implements adult learning theory to maximize retention
