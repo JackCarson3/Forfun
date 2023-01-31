@@ -10,4 +10,4 @@ url: 'https://worldhelp.net'
 - Served at global nonprofit through strategic communication
 - Created and maintained donor partnerships
 - Planned 10-month fundraising tour
-- Advocated for special international initatives
+- Advocated for special international initiatives
