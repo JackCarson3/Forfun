@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Elementary ESOL Teacher'
-company: 'Perrymont Elementary School'
+company: 'Perrymont Elementary'
 location: 'Lynchburg, VA'
 range: 'January 2020 - Present'
 url: 'https://www.lcsedu.net/schools/pes'
