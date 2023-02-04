@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'eLearning Module'
 cover: '../HalcyonTheme/360 Preview.jpeg'
 external: 'https://storage.googleapis.com/foundations-of-adult-learning-theory/Portfolio/Adult%20Learning%20360%20copy/index.html#/'

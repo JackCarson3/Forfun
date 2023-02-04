@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'AI Micro-learning Course'
 cover: './halycon.png'
 external: 'https://app.7taps.com/ovAquDkPcr'
