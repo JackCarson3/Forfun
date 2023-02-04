@@ -7,7 +7,7 @@ tech:
   - Grapic Design
   - Data visualization
   - Venngage
-company: 'Apple'
+company: 'Lynchburg City Schools'
 showInProjects: true
 ---
 
