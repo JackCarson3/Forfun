@@ -1,14 +1,14 @@
 ---
 date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+title: 'Assessment reference'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+internal: 'https://drive.google.com/file/d/1tCvVa9GCe4F60yWKQ4p58Wgo7dYjAT1Q/view?usp=sharing'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - Grapic Design
+  - Data visualization
+  - Venngage
 company: 'Apple'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Graphic designed as quick reference for assessment administrators. Provides visual to contrast important procedural differences.

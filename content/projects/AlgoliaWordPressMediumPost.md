@@ -1,14 +1,14 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+title: 'Front-end Analysis'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://docs.google.com/document/d/1nI1n0gQrk0_kv1oTwiGorNJAZjoqETig1sKpDy3NVCk/edit?usp=sharing'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
+  - Adult learner analysis
+  - Organizational needs assessment
+  - Backward design
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Document containing multiple deliverables including needs assessment, task analysis, and content map.

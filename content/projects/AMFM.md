@@ -1,14 +1,14 @@
 ---
 date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
+title: 'Design Document'
 github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+external: 'https://docs.google.com/document/d/e/2PACX-1vSd9vAq-W5pD4RLYnwr5ny5ENDaJJFfujfhbUUgu4JeWyBCO6ZclZ9WuL2YglI4w9ESVc-y644V_Un3/pub'
 tech:
-  - Ember
-  - JS
-  - SCSS
+  - data analysis
+  - differentiation
+  - multilingual learners
 company: 'Apple'
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Comprehensive design document for a K-12 curriculum project including contextual analysis, instructional sequence, design standards, and assessment plan.

@@ -1,13 +1,13 @@
 ---
 date: '2'
-title: 'Professional Development Slide Deck and Assessment'
-cover: './demo.png'
-external: 'https://www.canva.com/design/DAFZGhFlP6Y/aODS-xlb-k237k52-nhXGQ/view?utm_content=DAFZGhFlP6Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'
+title: 'eLearning Module'
+cover: '../HalcyonTheme/360 Preview.jpeg'
+external: 'https://storage.googleapis.com/foundations-of-adult-learning-theory/Portfolio/Adult%20Learning%20360%20copy/index.html#/'
 tech:
-  - Scripting
-  - iMovie
-  - Google Suite
-  - Canva
+  - Articulate
+  - Scenario
+  - Story-based Learning
+  - Androgogy
 ---
 
-I prepared professional development lessons designed to train faculty in culturally mindful pedagogy and legal compliance for Title III English Language Learners. Originally hosted on the district LMS, I have provided a sample lesson here.
+I prepared this eLearning module to describe the fundamental principles of adult learners. Participants can test their knowledge at the conclusion of the module by completing an interactive scenario. Try it for yourself by clicking the preview image.

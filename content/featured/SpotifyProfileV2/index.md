@@ -1,12 +1,13 @@
 ---
-date: '3'
-title: 'Sample Job Aids'
-cover: './course-card.png'
-external: 'https://drive.google.com/drive/folders/1f6d_jlh5CWDL-oX7nLthlxxCg1pSdONL'
+date: '2'
+title: 'Faculty PD Slide Deck'
+cover: '../SpotifyProfile/demo.png'
+external: 'https://www.canva.com/design/DAFZGhFlP6Y/aODS-xlb-k237k52-nhXGQ/view?utm_content=DAFZGhFlP6Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'
 tech:
-  - Adobe inDesign
-  - Venngage
+  - Scripting
+  - iMovie
+  - Google Suite
   - Canva
 ---
 
-I have prepared a variety of teaching aids and tools for the professional development of the Lynchburg City School system faculty. These tools have been designed to help ensure Title III legal compliance and success.
+I prepared professional development lessons designed to train faculty in culturally mindful pedagogy and legal compliance for Title III English Language Learners. Originally hosted on the district LMS, I have provided a sample lesson here.
