@@ -7,7 +7,7 @@ tech:
   - data analysis
   - differentiation
   - multilingual learners
-company: 'Apple'
+company: 'University of Virginia'
 showInProjects: true
 ---
 

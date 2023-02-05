@@ -7,7 +7,7 @@ tech:
   - Grapic design
   - Multimedia
   - Canva
-company: 'Apple'
+company: 'Lynchburg City Schools'
 showInProjects: true
 ---
 

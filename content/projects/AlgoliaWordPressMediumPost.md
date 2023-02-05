@@ -7,7 +7,7 @@ tech:
   - Adult learner analysis
   - Organizational needs assessment
   - Backward design
-company: 'Upstatement'
+company: 'Parkland City Schools'
 showInProjects: true
 ---
 
