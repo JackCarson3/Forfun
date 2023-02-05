@@ -4,8 +4,8 @@ title: 'AI Micro-learning Course'
 cover: './halycon.png'
 external: 'https://app.7taps.com/ovAquDkPcr'
 tech:
-  - micro-learning
-  - mobile UI
+  - Micro-learning
+  - Mobile UI
   - 7Taps
   - AI
 ---
