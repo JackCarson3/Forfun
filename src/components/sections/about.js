@@ -126,12 +126,12 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Storyboarding',
+    'Iterative Design',
     'Front-end Analysis',
     'ILT/vILT/eLearning',
-    'Articulate Storyline',
+    'Articulate Rise 360',
     'LMS Administration',
-    'HTML/CSS',
+    'HTML/CSS editing',
   ];
 
   return (
