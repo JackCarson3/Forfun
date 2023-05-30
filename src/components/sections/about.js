@@ -129,7 +129,7 @@ const About = () => {
     'Iterative Design',
     'Front-end Analysis',
     'ILT/vILT/eLearning',
-    'Articulate Rise 360',
+    'Articulate 360',
     'LMS Administration',
     'HTML/CSS editing',
   ];
