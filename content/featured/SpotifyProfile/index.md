@@ -2,7 +2,7 @@
 date: '1'
 title: 'eLearning Module'
 cover: '../HalcyonTheme/360 Preview.jpeg'
-external: 'https://storage.googleapis.com/foundations-of-adult-learning-theory/Portfolio/content%205/index.html#/'
+external: 'https://module1.d2px7t7uc2x4y9.amplifyapp.com/#/'
 tech:
   - Rise 360
   - HP5
