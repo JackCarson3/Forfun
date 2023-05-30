@@ -1,13 +1,14 @@
 ---
 date: '2022-12-21'
 title: 'Instructional Designer'
-company: 'Lynchburg City Schools'
-location: 'Lynchburg, VA'
+company: 'Freelance'
+location: 'Remote'
 range: 'June 2021 - Present'
 url: 'https://www.lcsedu.net'
 ---
 
+- contracts with companies to evaluate learning needs and deliver instructional solutions
 - designs asynchronous professional learning modules utilizing ADDIE model
-- Creates engaging learning materials using UDL principles
+- creates engaging learning materials using UDL principles
 - constructs job aids and assessment tools
-- implements adult learning theory to maximize retention
+- specializes in learning for medical research organizations and tech companies
