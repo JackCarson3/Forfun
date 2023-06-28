@@ -1,10 +1,10 @@
 ---
 date: '2022-12-21'
 title: 'Instructional Designer'
-company:
+company: 'Private Contracts'
 location: 'Remote'
 range: 'June 2021 - Present'
-url: ''
+url: 'https://www.upwork.com/freelancers/~01bad62b7493af6553'
 ---
 
 - contracts with companies to evaluate learning needs and deliver innovative instructional solutions
