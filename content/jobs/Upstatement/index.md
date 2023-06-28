@@ -1,14 +1,13 @@
 ---
 date: '2018-05-14'
-title: 'Elementary ESOL Teacher'
-company: 'Perrymont Elementary'
+title: 'Virtual ESL Instructor'
+company: 'QKids International'
 location: 'Lynchburg, VA'
-range: 'January 2020 - Present'
-url: 'https://www.lcsedu.net/schools/pes'
+range: 'March 2019 - August 2020'
+url: 'https://teacher.qkids.com/'
 ---
 
-- Instructs multilingual learners of varying levels
-- Creates engaging curriculum using UDL principles
-- Ensures an equitable learning environment through supports and differentiation
-- Administers English proficiency assessment for data-based instruction
-- Engages families through outreach events
+- Taught English to PreK-6th grade students
+- Facilitated vILT using synchronous learning software
+- Fostered gamified learning environment for optimal language retention
+- Conducted formative needs and knowledge assessments for progress monitoring
