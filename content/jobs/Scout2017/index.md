@@ -1,6 +1,6 @@
 ---
 date: '2020-08-01'
-title: 'ESL Teacher and Instructional Designer'
+title: 'ESL Teacher and Professional Learning Designer'
 company: 'Lynchburg City Schools'
 location: 'Remote'
 range: 'January 2021 - June 2023'
@@ -8,6 +8,7 @@ url: 'https://www.lcsedu.net/departments/curriculum/english-learners-program'
 ---
 
 - Created engaging ELA curriculum for multilingual learners using UDL principles
+- Delivered instruction that exeeded state growth targets on standardized assessments
 - Designed professional learning modules for district-wide Title III compliance
 - Coached classroom teachers in the area of culturally mindful instruction
 - Provided Tier II and Tier III instructional supports for elementary students
