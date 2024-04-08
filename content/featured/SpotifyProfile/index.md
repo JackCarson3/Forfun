@@ -11,4 +11,4 @@ tech:
   - Interactive video
 ---
 
-I prepared this eLearning module to describe the fundamental principles of adult learners. Participants can test their knowledge at the conclusion of the module by completing an interactive scenario. Try it for yourself by clicking the preview image.
+I prepared this eLearning module to describe the fundamental principles of adult learning. Participants can test their knowledge at the conclusion of the module by completing an interactive scenario. Try it for yourself by clicking the preview image.

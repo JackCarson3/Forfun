@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I would love to chat about your instructional design goals and needs. Feel free to reach out
-        to me with questions, and I will do my best to get back with you!
+        I would love to talk about your instructional design goals and needs. Please feel to reach
+        out with any questions, and I'll be in touch!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

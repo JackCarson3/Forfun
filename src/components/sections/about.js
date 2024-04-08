@@ -163,8 +163,8 @@ const About = () => {
                 inclusive design methods
               </a>
               . As an educator, I have worked in remote and in-person settings and have instructed
-              diverse student populations that range from elementary English Language Learners to
-              adult professionals.
+              diverse student populations that range from medical researchers to multilingual
+              college students.
             </p>
             <ul className="skills-list">
               {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
