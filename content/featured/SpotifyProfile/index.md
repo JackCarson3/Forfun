@@ -1,14 +1,14 @@
 ---
 date: '1'
 title: 'eLearning Module'
-cover: '../HalcyonTheme/360 Preview.jpeg'
-external: 'https://module1.d2px7t7uc2x4y9.amplifyapp.com/#/'
+cover: './chatgptphoto.jpg'
+external: 'https://storage.googleapis.com/alt_text_carson_learning/Carson%20Learning%20Designs%20-%20ChatGPT%20Introduction/story.html'
 tech:
-  - Rise 360
-  - HP5
-  - Story-based learning
-  - Androgogy
-  - Interactive video
+  - Articulate Storyline
+  - Java/HTML
+  - ChatGPT API
+  - Simulation
+  - Scaffolded learning activities
 ---
 
-I prepared this eLearning module to describe the fundamental principles of adult learning. Participants can test their knowledge at the conclusion of the module by completing an interactive scenario. Try it for yourself by clicking the preview image.
+This interacive eLearning module introduces learners to generative AI by allowing them to interact with ChatGPT in real time. Try the immersive eLearning for yourself below.
