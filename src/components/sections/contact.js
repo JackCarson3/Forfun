@@ -61,10 +61,10 @@ const Contact = () => {
 
       <p>
         I would love to talk about your instructional design goals and needs. Please feel to contact
-        me on <a href="www.linkedin.com/in/erin-carson-instructional-design"> LinkedIn </a>
-        or <a href="https://www.upwork.com/freelancers/~01bad62b7493af6553"> UpWork </a>, or drop me
-        an email below. I look forward to discussing how we can find innovative learning solutions
-        for your instrucional needs.
+        me on <a href="www.linkedin.com/in/erin-carson-instructional-design"> LinkedIn </a> or{' '}
+        <a href="https://www.upwork.com/freelancers/~01bad62b7493af6553"> UpWork </a>, or drop me an
+        email below. I look forward to discussing how we can find innovative learning solutions for
+        your instrucional needs.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
