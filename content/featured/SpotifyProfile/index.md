@@ -8,7 +8,6 @@ tech:
   - Java/HTML
   - ChatGPT API
   - Simulation
-  - Hands-on Learning
 ---
 
 This interacive eLearning module introduces learners to generative AI by allowing them to interact with ChatGPT in real time. Try the immersive eLearning for yourself below.

@@ -1,13 +1,13 @@
 ---
 date: '2'
-title: 'AI Micro-learning Course'
-cover: './halycon.png'
-external: 'https://app.7taps.com/ovAquDkPcr'
+title: 'Alt Text Microlearning'
+cover: './alttext.jpg'
+external: 'https://storage.googleapis.com/alt_text_carson_learning/Introduction%20to%20Alt%20Text%20-%20Carson%20Learning%20Designs/story.html'
 tech:
-  - Micro-learning
-  - Mobile UI
-  - 7Taps
-  - AI
+  - Microlearning
+  - Articulate Storyline
+  - Level 2 Interactivity
+  - Accessibiliy training
 ---
 
-I designed this quick course for busy professionals who are curious about the trending chat bot from Open AI. Right from their smartphones, learners can explore the differences between a ChatGPT query and a standard search engine. Click the link to experience this project!
+This module is designed as the second lesson in accessible web practices. The eLearning helps those without a coding background understand the basic of hmtl alt text tags, similating a real source code scenaario and allowing learners to practice their skills in real-time. Try it for yourself!
