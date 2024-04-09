@@ -6,8 +6,7 @@ external: 'https://storage.googleapis.com/alt_text_carson_learning/Introduction%
 tech:
   - Microlearning
   - Articulate Storyline
-  - Level 2 Interactivity
-  - Accessibiliy training
+  - Accessibility
 ---
 
 This module is designed as the second lesson in accessible web practices. The eLearning helps those without a coding background understand the basic of hmtl alt text tags, similating a real source code scenaario and allowing learners to practice their skills in real-time. Try it for yourself!
