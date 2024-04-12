@@ -152,7 +152,7 @@ const About = () => {
               I have an Ed.S. from the University of Virginia in Curriculum and Instruction where I
               studied educational technology and was trained in{' '}
               <a href="https://www.instructionaldesign.org/models/iterative_design/rapid_prototyping/">
-                rapid design
+                rapid prototyping
               </a>
               ,{' '}
               <a href="https://educationaltechnology.net/the-addie-model-instructional-design/.com/">
