@@ -1,14 +1,14 @@
 ---
 date: '2017-11-01'
-title: 'Design Document'
+title: 'Mobile Microlearning'
 github: ''
-external: 'https://docs.google.com/document/d/e/2PACX-1vSd9vAq-W5pD4RLYnwr5ny5ENDaJJFfujfhbUUgu4JeWyBCO6ZclZ9WuL2YglI4w9ESVc-y644V_Un3/pub'
+external: 'https://app.7taps.com/ovAquDkPcr'
 tech:
-  - data analysis
-  - differentiation
-  - multilingual learners
+  - Microlearning
+  - Mobile UI
+  - 7 Taps
 company: 'University of Virginia'
 showInProjects: true
 ---
 
-Comprehensive design document for a K-12 curriculum project including contextual analysis, instructional sequence, design standards, and assessment plan.
+I designed this quick course for busy professionals who are curious about the trending chat bot from Open AI. Right from their smartphones, learners can explore the differences between a ChatGPT query and a standard search engine. Click the image to experience this project!
