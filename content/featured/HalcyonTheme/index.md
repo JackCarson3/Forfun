@@ -2,7 +2,7 @@
 date: '2'
 title: 'Alt Text Microlearning'
 cover: './alttext.jpg'
-external: 'https://storage.googleapis.com/alt_text_carson_learning/Carson%20Learning%20Designs%20-%20ChatGPT%20Introduction%20-%203/story.html'
+external: 'https://storage.googleapis.com/alt_text_carson_learning/Introduction%20to%20Alt%20Text%20-%20Carson%20Learning%20Designs/story.html'
 tech:
   - Articulate Storyline
   - Simulation
