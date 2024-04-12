@@ -164,7 +164,7 @@ const About = () => {
               </a>
               . As an educator, I have worked in remote and in-person settings and have instructed
               diverse student populations that range from medical researchers to multilingual
-              college student, providing me with a toolbox of skills that can meet your learning
+              college students, providing me with a toolbox of skills that can meet your learning
               needs.
             </p>
             <ul className="skills-list">
