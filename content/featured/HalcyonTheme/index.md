@@ -9,4 +9,4 @@ tech:
   - Accessibility
 ---
 
-This module is designed as the second lesson in accessible web practices. The eLearning helps those without a coding background understand the basic of hmtl alt text tags, similating a real source code scenaario and allowing learners to practice their skills in real-time.
+This module is designed as the second lesson in accessible web practices. The eLearning helps those without a coding background understand the basic of hmtl alt text tags, similating a real source code scenario and allowing learners to practice their skills in real-time.
