@@ -160,9 +160,9 @@ const About = () => {
               </a>
               , and{' '}
               <a href="https://er.educause.edu/articles/2022/3/inclusive-addie-initial-considerations-for-dei-pedagogy">
-                inclusive design methods.
+                inclusive design methods
               </a>
-              As an educator, I have worked in remote and in-person settings and have instructed
+              . As an educator, I have worked in remote and in-person settings and have instructed
               diverse student populations that range from medical researchers to multilingual
               college students, providing me with a toolbox of skills that can meet your learning
               needs.
